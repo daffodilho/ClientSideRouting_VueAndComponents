@@ -1,0 +1,7 @@
+body { background-color: #ffff31; color: #313131; font-family: Helvetica, sans-serif;}
+
+a {text-transform: none; color: #313131;}
+
+label { display: block; margin-top: 20px; }
+
+input[type="submit"] {display: block; margin-top: 30px;}
